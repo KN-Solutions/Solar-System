@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.backimg{
+  width: 100p%;
+  height: 100vh;
+  background-image: url(img1.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100% ;
+  }
+
+  .backimg1{
+    width: 100p%;
+    height: 100vh;
+    background-image: url(img3.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+    }
